@@ -1,0 +1,6 @@
+/Users/mark.o.lumba/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/servlets/SimpleServletTest.java
+/Users/mark.o.lumba/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/models/HelloWorldModelTest.java
+/Users/mark.o.lumba/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/schedulers/SimpleScheduledTaskTest.java
+/Users/mark.o.lumba/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/filters/LoggingFilterTest.java
+/Users/mark.o.lumba/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/testcontext/AppAemContext.java
+/Users/mark.o.lumba/aem-guides-wknd-spa.react/core/src/test/java/com/adobe/aem/guides/wkndspa/react/core/listeners/SimpleResourceListenerTest.java
